@@ -38,7 +38,15 @@ Meus projetos são voltados para resolução de problemas reais, envolvendo cole
 
 ### 🚀 Projetos em Destaque
 
-**🔹 [Wine Data API (Pipeline de Ingestão com IA)](https://github.com/MatheuusPedroso/api_tech_challenge)**  
+**🔹 [Passos Mágicos ML API (Predição com Machine Learning)](https://github.com/MatheuusPedroso/tech/tree/main/projeto%20completo)**  
+Sistema completo de Machine Learning para previsão educacional, com pipeline de dados, modelo treinado e API de predição em tempo real.  
+Inclui interface interativa para simulação de cenários e endpoint `/predict` para inferência do modelo.  
+
+**Stack:** Python · Scikit-learn · FastAPI · Pandas · API REST · Swagger  
+
+---
+
+**🔹 [Wine Data API (Pipeline de Ingestão de Dados)](https://github.com/MatheuusPedroso/api_tech_challenge)**  
 API em Python com FastAPI para ingestão, tratamento e disponibilização de dados externos.  
 Inclui autenticação JWT, scraping automatizado, fallback em CSV e documentação via Swagger.  
 
@@ -46,9 +54,9 @@ Inclui autenticação JWT, scraping automatizado, fallback em CSV e documentaç�
 
 ---
 
-**🔹 Automação Inteligente de Conteúdo**  
-Pipeline em Python para coleta, organização e geração automatizada de conteúdo utilizando técnicas de IA.  
-Integra scraping, processamento de dados e geração de texto de forma estruturada.  
+**🔹 Pipeline de Geração de Conteúdo com IA**  
+Pipeline em Python para coleta, processamento e geração automatizada de conteúdo utilizando técnicas de IA.  
+Integra ingestão de dados, organização de informações e geração de texto de forma estruturada.  
 
 **Stack:** Python · Automação · Processamento de Dados · IA  
 
