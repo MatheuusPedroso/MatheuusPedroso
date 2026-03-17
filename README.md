@@ -54,11 +54,6 @@ Inclui autenticação JWT, scraping automatizado, fallback em CSV e documentaç�
 
 ---
 
-**🔹 Pipeline de Geração de Conteúdo com IA**  
-Pipeline em Python para coleta, processamento e geração automatizada de conteúdo utilizando técnicas de IA.  
-Integra ingestão de dados, organização de informações e geração de texto de forma estruturada.  
-
-**Stack:** Python · Automação · Processamento de Dados · IA  
 
 ---
 
