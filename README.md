@@ -40,7 +40,7 @@ Gosto de resolver problemas com código. Se tiver uma ideia maluca e quiser colo
 
 ### 🚀 Projetos em Destaque
 
-**🔹 [`api_tech_challenge`](https://github.com/MatheuusPedroso/api_tech_challenge)**  
+**🔹 [`API-pipeline-ingest-o-sistema-IA-aplicada.`](https://github.com/MatheuusPedroso/api_tech_challenge)**  
 Scraper em Python com FastAPI, autenticação e deploy público. Projeto criado para simular um desafio real de ingestão de dados com API.
 
 **🔹 Automação de conteúdo**  
