@@ -1,28 +1,27 @@
-
 <!-- Banner topo animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Matheus%20Pedroso%20👾&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Dev+Python+%7C+Scraping+%7C+APIs;Gamer+e+tech+lover+%F0%9F%91%BD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+%26+AI+Engineer+Jr;Python+%7C+FastAPI+%7C+Machine+Learning;Data+Pipelines+%7C+APIs+%7C+Automation" />
 </p>
 
 ---
 
 ### 🎮 Quem sou eu?
 
-Desenvolvedor com paixão por Python, automação e tudo que envolva tecnologia. Aqui você encontra meus projetos principais — nada de portfólio montado só pra parecer bonito: tudo aqui foi feito com propósito real, estudo e bastante prática.
+Desenvolvedor com foco em **Python, APIs e automação de dados**, com experiência na construção de pipelines de ingestão e processamento de informações.
 
-Gosto de resolver problemas com código. Se tiver uma ideia maluca e quiser colocar em prática, provavelmente eu vou tentar.
+Meus projetos são voltados para resolução de problemas reais, envolvendo coleta de dados, construção de APIs e integração de sistemas. Atualmente direciono minha carreira para **Inteligência Artificial e Cloud Computing**.
 
 ---
 
 ### 🎓 Formação
 
 - 📍 **Pós-graduação em andamento**: *Machine Learning Engineering*  
-- 🎓 Formação em Análise e desenvolvimento de sistemas - backend com foco em automações, APIs e integração com dados externos  
-- 🚀 Aprendizado contínuo com projetos próprios, estudo ativo e muita mão no código
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas — backend com foco em automações, APIs e integração com dados externos  
+- 🚀 Aprendizado contínuo com projetos próprios, estudo ativo e prática constante
 
 ---
 
@@ -33,18 +32,25 @@ Gosto de resolver problemas com código. Se tiver uma ideia maluca e quiser colo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  
 </div>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-**🔹 [`API-pipeline-ingest-o-sistema-IA-aplicada.`](https://github.com/MatheuusPedroso/api_tech_challenge)**  
-Scraper em Python com FastAPI, autenticação e deploy público. Projeto criado para simular um desafio real de ingestão de dados com API.
+**🔹 [Wine Data API (Pipeline de Ingestão com IA)](https://github.com/MatheuusPedroso/api_tech_challenge)**  
+API em Python com FastAPI para ingestão, tratamento e disponibilização de dados externos.  
+Inclui autenticação JWT, scraping automatizado, fallback em CSV e documentação via Swagger.  
 
-**🔹 Automação de conteúdo**  
-Scripts que integram scraping e organização de informações com uso pontual de IA, voltados para geração automatizada de eBooks e conteúdo temático.
+**Stack:** Python · FastAPI · JWT · Web Scraping · Swagger  
+
+---
+
+**🔹 Automação Inteligente de Conteúdo**  
+Pipeline em Python para coleta, organização e geração automatizada de conteúdo utilizando técnicas de IA.  
+Integra scraping, processamento de dados e geração de texto de forma estruturada.  
+
+**Stack:** Python · Automação · Processamento de Dados · IA  
 
 ---
 
